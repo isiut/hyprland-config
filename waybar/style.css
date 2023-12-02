@@ -1,0 +1,73 @@
+* {
+    border: none;
+    border-radius: 0px;
+    font-family: "Fira Code Nerd Font", monospace;
+    font-size: 12px;
+    min-height: 0px;
+    background-color: #282c34; /* Black background color */
+    padding: 1px;
+}
+
+#workspaces {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#workspaces button {
+  color: #e5c07b;
+}
+
+#clock {
+    color: #61afef; /* One Dark Pro text color for clock */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#custom-weather {
+    color: #c678dd; /* One Dark Pro text color for weather */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#pulseaudio {
+    color: #98c379; /* One Dark Pro text color for pulseaudio */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#network {
+    color: #e5c07b; /* One Dark Pro text color for network */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#window {
+    color: #56b6c2; /* One Dark Pro text color for window */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#cpu {
+    color: #e06c75; /* One Dark Pro text color for CPU */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#custom-suspend {
+    color: #c678dd; /* One Dark Pro text color for suspend */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#custom-reboot {
+    color: #98c379; /* One Dark Pro text color for reboot */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#custom-poweroff {
+    color: #e06c75; /* One Dark Pro text color for poweroff */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
